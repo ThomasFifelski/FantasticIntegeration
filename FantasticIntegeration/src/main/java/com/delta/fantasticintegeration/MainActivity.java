@@ -14,6 +14,8 @@ public class MainActivity extends Activity {
 
         Log.i("hey", "yup");
         Log.i("skdfhsdkjf", "slkdfhskldfj");
+        Log.i ("skdfhsdkjf", "slkdfhskldfj");
+
     }
 
 

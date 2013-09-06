@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36464c0c-e897-401f-8a06-ff9a60045fea" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FantasticIntegeration/src/main/java/com/delta/fantasticintegeration/MainActivity.java" afterPath="$PROJECT_DIR$/FantasticIntegeration/src/main/java/com/delta/fantasticintegeration/MainActivity.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="FantasticIntegeration.iws" />
@@ -69,7 +70,7 @@
       <file leaf-file-name="MainActivity.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/FantasticIntegeration/src/main/java/com/delta/fantasticintegeration/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="0" selection-start="194" selection-end="194" vertical-scroll-proportion="0.12254902" vertical-offset="0" max-vertical-offset="612">
+            <state line="17" column="6" selection-start="485" selection-end="485" vertical-scroll-proportion="0.34313726" vertical-offset="0" max-vertical-offset="612">
               <folding />
             </state>
           </provider>
@@ -135,8 +136,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="104" />
+    <option name="x" value="2" />
+    <option name="y" value="58" />
     <option name="width" value="1260" />
     <option name="height" value="760" />
   </component>
@@ -356,6 +357,8 @@
       <option name="NETWORK_SPEED" value="full" />
       <option name="NETWORK_LATENCY" value="none" />
       <option name="CLEAR_LOGCAT" value="false" />
+      <RunnerSettings RunnerId="AndroidDebugRunner" />
+      <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
       <method />
     </configuration>
     <list size="1">
@@ -407,11 +410,15 @@
       <created>1378501615326</created>
       <updated>1378501615326</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="number2 commit">
+      <created>1378501760969</created>
+      <updated>1378501760969</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="104" width="1260" height="760" extended-state="0" />
+    <frame x="2" y="58" width="1260" height="760" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -482,7 +489,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="we dont need build folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="number2 commit" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -497,6 +504,7 @@
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
     <MESSAGE value="we dont need build folder" />
+    <MESSAGE value="number2 commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -511,7 +519,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/FantasticIntegeration/src/main/java/com/delta/fantasticintegeration/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="194" selection-end="194" vertical-scroll-proportion="0.12254902" vertical-offset="0" max-vertical-offset="612">
+        <state line="17" column="6" selection-start="485" selection-end="485" vertical-scroll-proportion="0.34313726" vertical-offset="0" max-vertical-offset="612">
           <folding />
         </state>
       </provider>
